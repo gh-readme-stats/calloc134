@@ -39,8 +39,8 @@ CTF にもたまに出ていたりゆるゆるやってます
 - [wantedly](https://www.wantedly.com/id/calloc134)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=calloc134&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.shion.dev/api?username=calloc134&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calloc134" />
+  <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs/?username=calloc134" />
 </a>
